@@ -19,6 +19,3 @@ I built a **Tic-Tac-Toe game** where two players can play against each other (or
 - ✅ Win and draw detection
 - 🔄 Reset/Restart functionality
 - 📱 Fully responsive layout
-
-## 📂 Folder Structure
-
